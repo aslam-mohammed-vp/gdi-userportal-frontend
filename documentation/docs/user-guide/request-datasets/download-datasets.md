@@ -8,6 +8,12 @@ sidebar_position: 5
 
 Once your application is **approved**, you'll receive an email with instructions to access the **Secure Processing Environment (SPE)** where you can securely download and work with your approved datasets.
 
+:::tip Automatic access recognition
+
+Once your application is approved, your access grant is automatically added to your account via the GA4GH Passport and Visa system. You can view all your approved datasets in the [Entitlements tab](/view-entitlements).
+
+:::
+
 To access and work with your approved datasets:
 
 1. **Check your email** for instructions and access links to the Secure Processing Environment (SPE).
