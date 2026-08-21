@@ -58,3 +58,36 @@ With a GA4GH Passport, you can view your approved datasets through the [Entitlem
 If you see a message that your "GA4GH Passport is unavailable," sign in again to refresh your credentials or contact support.
 
 :::
+
+
+----
+
+## TODO
+
+Need UI texts for access control error messages. Need corrections to the current UI texts:
+
+1) Passport needed
+
+Current text: 
+Your access entitlements could not be loaded (GA4GH Passport unavailable). Please contact support.
+
+Suggested text: 
+Your access entitlements could not be loaded because your GA4GH Passport is unavailable. Please contact support.
+
+2) Passport verified but no display because of any of the following reasons: they have not applied for access, their application is still under review, their access has been granted but has already expired, their request for access is still under review. 
+
+Current text: 
+Your credentials were retrieved but no valid access grants were found. Your grants may have expired or are still awaiting approval.
+
+Suggested text: 
+You currently do not have any active entitlements. Please check the status of your applications or re-apply if your access has expired.
+
+
+
+3) Passport verified but dataset details cannot be pulled from the source systems due to some connection problems with the source systems or technical issue
+
+Current text: Dataset details are temporarily unavailable. Entitlement information is shown based on your access grant. Please try again later or contact support if the issue persists. 
+
+Suggested text: 
+The information is incomplete because the dataset details are temporarily unavailable. Please try again later, or contact support if the issue persists. 
+

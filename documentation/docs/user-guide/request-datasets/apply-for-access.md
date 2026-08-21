@@ -80,8 +80,8 @@ To apply for access to datasets:
 
 ## After approval
 
-Once your application is approved, your access grant is automatically added to your account via the GA4GH Passport and Visa system. You can then:
+Once your application is approved, you can then:
 
-- [View your entitlements](/view-entitlements) to see all approved datasets
+- [View your entitlements](/view-entitlements) to see datasets covered by your current access grants
 - [Download datasets](/download-datasets) from the Secure Processing Environment (SPE)
 - [Track your application](/track-application) status and view approval details

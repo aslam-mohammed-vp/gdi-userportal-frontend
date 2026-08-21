@@ -20,7 +20,7 @@ Learn more about [Genomic Data Infrastructure (GDI)](about-gdi.md) and its found
 
 2. **[Request access](/category/request-datasets/):** Found a dataset you want to use? Submit an application to access it. You may need to provide documentation or requirements for your request, and you can invite collaborators to assist you with your application.
 
-3. **Access approved datasets:** Once your request is approved, your access grant is automatically added to your account via the GA4GH Passport and Visa system. [View your entitlements](/view-entitlements) to see all approved datasets, then access the **Secure Processing Environment (SPE)** to securely download and work with them. Learn more: [Understanding access control](/understanding-access-control)
+3. **Access approved datasets:** Once your request is approved, you can [view your entitlements](/view-entitlements) to see the datasets you have access to through the Secure Processing Environment (SPE).
 
    :::info Stay compliant
 

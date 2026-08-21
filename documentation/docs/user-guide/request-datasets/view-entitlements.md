@@ -6,11 +6,11 @@ sidebar_position: 4
 
 # View your entitlements
 
-**View datasets you have access to** through approved applications or external grants. Your entitlements are automatically retrieved from your credentials when you sign in.
+**View your current approved access to datasets.** Each entitlement is a record of a verified access grant for a specific dataset, retrieved from your GA4GH Passport when you sign in.
 
 ## What are entitlements?
 
-Entitlements are dataset access grants you've received through:
+An entitlement is a record of your current approved access to a specific dataset. It is created from a verified access grant in your GA4GH Passport. Access grants may be issued through:
 
 - **Approved applications** submitted through the GDI Portal
 - **External grants** issued by partner institutions or data access committees
@@ -24,7 +24,7 @@ To view your entitlements:
 
 1. Select the **folder icon** (<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="size-5" style={{display: 'inline', width: '1em', height: '1em', verticalAlign: 'text-bottom'}}><path d="M4.75 3A1.75 1.75 0 0 0 3 4.75v2.752l.104-.002h13.792c.035 0 .07 0 .104.002V6.75A1.75 1.75 0 0 0 15.25 5h-3.836a.25.25 0 0 1-.177-.073L9.823 3.513A1.75 1.75 0 0 0 8.586 3H4.75ZM3.104 9a1.75 1.75 0 0 0-1.673 2.265l1.385 4.5A1.75 1.75 0 0 0 4.488 17h11.023a1.75 1.75 0 0 0 1.673-1.235l1.386-4.5A1.75 1.75 0 0 0 16.896 9H3.104Z"/></svg>) on your dashboard.
 
-2. Select the **Entitlements** tab to see the list of your approved datasets.
+2. Select the **Entitlements** tab to see the datasets covered by your current access grants.
 
 <figure>
 <img src="img/download-datasets/view-approved-datasets.png" alt="Screenshot of the Entitlements tab showing approved datasets" width="900" />
@@ -90,7 +90,7 @@ The system couldn't retrieve your access credentials. This may happen if:
 
 **Next steps**: Sign out and sign in again to refresh your credentials. If the issue persists, contact support.
 
-### Entitlement shows "Dataset details unavailable"
+### An entitlement shows "Dataset details unavailable"
 
 Sometimes dataset metadata may be temporarily unavailable, but your entitlement information (dataset ID, granting authority, source) is still shown.
 

@@ -10,7 +10,7 @@ Once your application is **approved**, you'll receive an email with instructions
 
 :::tip Automatic access recognition
 
-Once your application is approved, your access grant is automatically added to your account via the GA4GH Passport and Visa system. You can view all your approved datasets in the [Entitlements tab](/view-entitlements).
+Once your application is approved , you can view datasets covered by your current access grants in the [Entitlements tab](/view-entitlements).
 
 :::
 
@@ -36,7 +36,7 @@ To view your approved datasets:
 
 1. Select the **folder icon** (<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="size-5" style={{display: 'inline', width: '1em', height: '1em', verticalAlign: 'text-bottom'}}><path d="M4.75 3A1.75 1.75 0 0 0 3 4.75v2.752l.104-.002h13.792c.035 0 .07 0 .104.002V6.75A1.75 1.75 0 0 0 15.25 5h-3.836a.25.25 0 0 1-.177-.073L9.823 3.513A1.75 1.75 0 0 0 8.586 3H4.75ZM3.104 9a1.75 1.75 0 0 0-1.673 2.265l1.385 4.5A1.75 1.75 0 0 0 4.488 17h11.023a1.75 1.75 0 0 0 1.673-1.235l1.386-4.5A1.75 1.75 0 0 0 16.896 9H3.104Z"/></svg>) on your dashboard.
 
-2. Select the **Entitlements** tab to see the list of your approved datasets.
+2. Select the **Entitlements** tab to see the datasets covered by your current access grants.
 
 <figure>
 <img src="img/download-datasets/view-approved-datasets.png" alt="Screenshot of the View Approved Datasets page" width="900" />
